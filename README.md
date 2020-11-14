@@ -6,5 +6,5 @@ Use this to run Bazel in CI via [Bazelisk](https://github.com/bazelbuild/bazelis
 
 Contains a number of tools required by Bazel:
 * zip, tar, gzip
-* g++
+* g++, gcc, clang
 * bash
